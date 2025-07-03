@@ -1,1 +1,1 @@
-# my-learning-log
+# Python learning
